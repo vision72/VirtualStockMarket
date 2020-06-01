@@ -18,5 +18,32 @@ samples, guidance on mobile development, and a full API reference.
 
 ## A simple demo to run the project
 
-<img src=![vsm1](https://user-images.githubusercontent.com/32649253/83376842-5105c580-a3f1-11ea-8c4a-e6995c373ba1.gif) width=400 height=400/>
-<img src=![vsm2](https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif) width=400 height=400/>
+![vsm1](https://user-images.githubusercontent.com/32649253/83376842-5105c580-a3f1-11ea-8c4a-e6995c373ba1.gif)
+![vsm2](https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif)
+
+Clone the repo
+
+```bash
+git clone https://github.com/vision72/VirtualStockMarket.git
+cd VirtualStockMarket
+```
+Verify the requirements
+
+```bash
+flutter doctor
+flutter doctor -v
+```
+
+Run the app
+
+```bash
+flutter run
+```
+
+<b>Steps to login into application:</b>
+<ul>
+  <li> The login codes are available inside lib/model/profile.dart file </li>
+  <li> Copy any one of the codes, you can use any team name, the team code is mandatory and must be taken from the list. </li>
+  <li> For the next round to begin click on the bottom left 10 second timer, a new page will pop up on the textbox add a sponsor code, you can get the sponsor code from lib/app_data/app_data.dart file </li>
+</ul>
+
