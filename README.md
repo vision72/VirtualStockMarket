@@ -11,9 +11,12 @@ A few resources to get you started if this is your first Flutter project:
 - A good resource for branch in git from freecodecamp.org https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
 - A good resource to be checked out on portfolio creation https://www.youtube.com/watch?v=0cd-UeljoG8
 
-For help getting started with Flutter, view our
+For help getting started with Flutter, view their
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
 
 ## A simple demo to run the project
+
+<img src=![vsm1](https://user-images.githubusercontent.com/32649253/83376842-5105c580-a3f1-11ea-8c4a-e6995c373ba1.gif) width=400 height=400/>
+<img src=![vsm2](https://user-images.githubusercontent.com/32649253/83376849-5531e300-a3f1-11ea-8765-522f663c6d3b.gif) width=400 height=400/>
